@@ -22,7 +22,6 @@ public class Customer {
 	private String c_mailcheck;
 	private String c_birth;
 	private String c_phone;
-	private String c_auth;	
 	private String m_code;
 	private String m_autopay;
 	private LocalDate m_start_date;
